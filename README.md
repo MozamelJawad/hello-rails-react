@@ -29,7 +29,7 @@ The **Hello Rails React** is a Ruby on Rails backend API and React fronted view 
 
 ## 🛠 Built With <a name="built-with"></a>
 
-Ruby, Ruby on Rails, Postgresql, Visual Studio Code
+Ruby, Ruby on Rails, Postgresql, Visual Studio Code, React Redux
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -41,14 +41,11 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code
   <summary>PostgreSQL</summary>
 </details>
 
-
 ### Key Features <a name="key-features"></a>
 
 - **[Database Connection]**
 - **[Rails API]**
-- **[React ]**
-
-
+- **[React Redux ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,6 +57,7 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code
 - Ruby on Rails
 - PostgreSQL
 - Git
+- React
 
 ### Setup <a name="setup"></a>
 
