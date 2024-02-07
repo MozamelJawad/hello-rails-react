@@ -15,7 +15,6 @@
   - [Install](#install)
   - [Database](#database)
   - [Usage](#usage)
-  <!-- - [Run tests](#run-tests) -->
 - [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -25,7 +24,7 @@
 
 # 📖 [Hello Rails React] <a name="about-project"></a>
 
-The **Hello Rails React** is a Ruby on Rails backend API and React fronted view that show how to develop Rails and React application inside single repository using webpack.
+The **Hello Rails React** is a Ruby on Rails backend API and React-fronted view that shows how to develop Rails and React applications inside a single repository using webpack.
 
 ## 🛠 Built With <a name="built-with"></a>
 
