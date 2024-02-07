@@ -41,7 +41,6 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code, React Redux
 </details>
 
 ### Key Features <a name="key-features"></a>
-
 - **[Database Connection]**
 - **[Rails API]**
 - **[React Redux ]**
@@ -51,7 +50,6 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code, React Redux
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites <a name="prerequisites"></a>
-
 - Ruby
 - Ruby on Rails
 - PostgreSQL
@@ -60,7 +58,7 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code, React Redux
 
 ### Setup <a name="setup"></a>
 
-In order to use this project:
+To use this project:
 ```
 git clone https://github.com/MozamelJawad/hello-rails-react.git
 cd hello-rails-react
@@ -90,7 +88,6 @@ To use, run:
 ```
 ./bin/dev
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
